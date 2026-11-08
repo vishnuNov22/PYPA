@@ -1,0 +1,37 @@
+{
+  "name": "pypa-kerala-portal",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "clsx": "2.1.1",
+    "framer-motion": "11.11.17",
+    "lucide-react": "0.454.0",
+    "next": "14.2.35",
+    "nodemailer": "6.9.16",
+    "qrcode": "1.5.4",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "recharts": "2.13.3",
+    "sonner": "1.7.0",
+    "swr": "2.2.5",
+    "tailwind-merge": "2.5.4",
+    "xlsx": "0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "20.17.6",
+    "@types/nodemailer": "6.4.17",
+    "@types/qrcode": "1.5.5",
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "autoprefixer": "10.4.20",
+    "postcss": "8.4.49",
+    "tailwindcss": "3.4.15",
+    "typescript": "5.6.3"
+  }
+}
